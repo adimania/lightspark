@@ -24,6 +24,9 @@ be ready soon.
 INSTALLATION:
 To compile this software you need to install development packages for llvm-2.7, sdl, opengl, curl, libavcodec, ftgl, libglew
 Install also cmake and nasm.
+
+For Fedora you need to install llvm-devel, pcre-devel, ffmpeg-devel, gtkglext-devel, ftgl-devel, xulrunner-devel, libcurl-devel, SDL-devel, glew-devel, nspr-devel
+
 To build the software please follow those steps.
 
 1) cd lightspark

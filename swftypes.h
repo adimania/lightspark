@@ -21,7 +21,7 @@
 #define SWFTYPES_H
 
 #include "compat.h"
-#include <llvm/System/DataTypes.h>
+#include <llvm/Support/DataTypes.h>
 #include <iostream>
 #include <fstream>
 #include <vector>
